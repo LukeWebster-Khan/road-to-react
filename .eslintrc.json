@@ -16,12 +16,6 @@
         "semi": "warn",
         "quotes": "warn",
         "no-console": "warn"
-        // "prettier/prettier": [
-        //     "warn",
-        //     {
-        //         "endOfLine": "auto"
-        //     }
-        // ]
     },
     "extends": ["prettier", "eslint:recommended", "plugin:react/recommended"]
 }
