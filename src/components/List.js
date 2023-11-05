@@ -1,4 +1,4 @@
-import PropTypes from 'prop-types'
+import PropTypes from "prop-types";
 
 export const List = ({ list }) => {
     return (
@@ -23,14 +23,14 @@ export const List = ({ list }) => {
                             <span>{item.points}</span>
                         </div>
                     </li>
-                )
+                );
             })}
         </ul>
-    )
-}
+    );
+};
 
 List.propTypes = {
     list: PropTypes.array,
-}
+};
 
-export default List
+export default List;
