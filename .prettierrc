@@ -1,6 +1,5 @@
 {
     "tabWidth": 4,
     "semi": false,
-    "singleQuote": false,
-    "eslint-disable-next-line": "eslint-disable-next-line"
+    "singleQuote": true
 }
