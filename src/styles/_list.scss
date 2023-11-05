@@ -1,12 +1,11 @@
-.list{
-    &__unordered{
+.list {
+    &__unordered {
         list-style: none;
     }
-    &__item{
+    &__item {
     }
-    &__row{
+    &__row {
         display: flex;
         gap: 10px;
-
     }
 }
