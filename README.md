@@ -10,11 +10,11 @@
 - [x] Meet the React Components
 - [x] React JSX
 - [x] Lists in React
-- [ ] Meet another React Component
-- [ ] React Component Instantiation
-- [ ] React DOM
-- [ ] React Component Defintinition (Advanced)
-- [ ] Handler Functions in JSX
+- [x] Meet another React Component
+- [x] React Component Instantiation
+- [x] React DOM
+- [x] React Component Defintinition (Advanced)
+- [x] Handler Functions in JSX
 - [ ] React Props
 - [ ] React State
 - [ ] Callback Handlers in JSX
