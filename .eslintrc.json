@@ -14,8 +14,10 @@
         "react/react-in-jsx-scope": "off",
         "react-hooks/rules-of-hooks": "error",
         "semi": "warn",
-        "quotes": "warn",
-        "no-console": "warn"
+        "no-console": "warn",
+        "no-unused-vars": "warn",
+        "quotes": [2, "single", { "avoidEscape": true }]
+
     },
     "extends": ["prettier", "eslint:recommended", "plugin:react/recommended"]
 }
