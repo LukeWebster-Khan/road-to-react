@@ -15,7 +15,7 @@
 - [x] React DOM
 - [x] React Component Defintinition (Advanced)
 - [x] Handler Functions in JSX
-- [ ] React Props
+- [x] React Props
 - [ ] React State
 - [ ] Callback Handlers in JSX
 - [ ] Lifting State in React
